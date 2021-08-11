@@ -1,11 +1,13 @@
 <?php
 /**
  * Plugin Name: Lightweight Cookie Banner
- * Plugin URI: https://stutz-medien.ch/
+ * Plugin URI: https://github.com/Stutz-Medien/Wordpress__Plugin-lightweight-cookie-banner
  * Description: This is a lightweight plugin for a cookie banner.
- * Version: 1.0.0
+ * Version: 0.9.0
  * Author: Stutz Medien AG
  * Author URI: https://stutz-medien.ch/
+ * License: The MIT License (MIT)
+ * License URI: https://mit-license.org/
  */
 
 add_action('wp_enqueue_scripts', 'cookie_banner_init');
