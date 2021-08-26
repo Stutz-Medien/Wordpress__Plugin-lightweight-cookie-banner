@@ -1,0 +1,7 @@
+'use strict';
+function pluginFunction() {
+	/**
+	 * All of the code for your admin-facing JavaScript source
+	 * should reside in this file.
+	 */
+}
