@@ -1,15 +1,15 @@
-# Wordpress-Plugin-lightweight-cookie-banner #
+# Wordpress Plugin lightweight cookie banner #
 
 ![GitHub](https://img.shields.io/github/license/Stutz-Medien/Wordpress__Plugin-lightweight-cookie-banner?color=blue)
 
 ### Lightweight - Easy - Simple ###
 
-Only 3 files, that's it. You don't need more for this simple, yet effective Cookie Banner.
+A very simple cookie banner solution. It's lightweight and allows for customization of the text in the alert.
 
 ## About Lightweight Cookie Banner ##
 
 Lightweight Cookie Banner is a small Wordpress Plugin which aims to be simple and compact.
-As the name suggests it's a very lightweight Plugin consisting only of 3 files.
+As the name suggests it's a very lightweight Plugin.
 
 ## Bugs and Features ##
 
