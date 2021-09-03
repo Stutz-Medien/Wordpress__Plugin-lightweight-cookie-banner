@@ -6,11 +6,11 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       http://example.com
+ * @link       https://stutz-medien.ch/
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    Lightweight_Cookie_Banner
+ * @subpackage Lightweight_Cookie_Banner/includes
  */
 
 /**
@@ -20,11 +20,11 @@
  * so that it is ready for translation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    Lightweight_Cookie_Banner
+ * @subpackage Lightweight_Cookie_Banner/includes
+ * @author     Stutz Medien AG <rafik@stutz-medien.ch>
  */
-class Plugin_Name_i18n {
+class Lightweight_Cookie_Banner_i18n {
 
 
 	/**

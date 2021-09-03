@@ -3,11 +3,11 @@
 /**
  * Fired during plugin deactivation
  *
- * @link       http://example.com
+ * @link       https://stutz-medien.ch/
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    Lightweight_Cookie_Banner
+ * @subpackage Lightweight_Cookie_Banner/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's deactivation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    Lightweight_Cookie_Banner
+ * @subpackage Lightweight_Cookie_Banner/includes
+ * @author     Stutz Medien AG <grafik@stutz-medien.ch>
  */
-class Plugin_Name_Deactivator {
+class Lightweight_Cookie_Banner_Deactivator {
 
 	/**
 	 * Short Description. (use period)
